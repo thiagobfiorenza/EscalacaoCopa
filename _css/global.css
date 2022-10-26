@@ -1,0 +1,72 @@
+#campo {
+	background:url(../_img/campo.jpg) no-repeat;
+	height:600px;
+	position:absolute;
+	width:440px;
+}
+#campo div.atacante {
+	height:22px;
+	margin-left:63px;
+	margin-top:92px;
+	position:relative;
+}
+#campo div.atacante div {
+	display:block;
+	float:left;
+	margin-right:15px;
+}
+#campo div.meia {
+	height:22px;
+	margin-left:40px;
+	margin-top:105px;
+	position:relative;
+}
+#campo div.meia div {
+	display:block;
+	float:left;
+	margin-right:15px;
+}
+#campo div.volante {
+	height:22px;
+	margin-left:65px;
+	margin-top:105px;
+	position:relative;
+}
+#campo div.volante div {
+	display:block;
+	float:left;
+	margin-right:15px;
+}
+#campo div.lateral {
+	height:22px;
+	margin-left:32px;
+	margin-top:65px;
+	position:relative;
+}
+#campo div.lateral div {
+	display:block;
+	float:left;
+	margin-right:85px;
+}
+#campo div.zagueiro {
+	height:22px;
+	margin-left:75px;
+	margin-top:27px;
+	position:relative;
+}
+#campo div.zagueiro div {
+	display:block;
+	float:left;
+	margin-right:25px;
+}
+#campo #goleiro {
+	height:22px;
+	margin-left:142px;
+	margin-top:26px;
+	position:relative;
+}
+
+#campo input.enviar {
+	margin-left:173px;
+	margin-top:12px;
+}
